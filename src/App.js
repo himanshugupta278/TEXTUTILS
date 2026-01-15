@@ -1,14 +1,12 @@
-
 import './App.css';
 import Navbar from './components/Navbar';
 
 function App() {
   return (
     <>
-     <Navbar title="TextUtils" About="About Us"/>
+      <Navbar title="TextUtils" About="About Us" />
     </>
   );
 }
-
 
 export default App;
