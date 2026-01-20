@@ -29,7 +29,3 @@ export default function Navbar(props) {
   )
 }
 
-Navbar.propTypes = {
-  title : PropTypes.number,
-  about : PropTypes.string
-}
