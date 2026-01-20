@@ -7,7 +7,7 @@ function App() {
     <>
       <Navbar title="TextUtils" About="About Us" />
       <div className="container my-3">
-      <TextForm heading="Make Your Text CAPITAL"/>
+      <TextForm heading="Make Your Text UPPERCASE"/>
       </div>
     </>
   );
